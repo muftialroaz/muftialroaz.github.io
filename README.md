@@ -36,6 +36,6 @@ I'm Mufti Alfarokhul Azam, love graphic design and how it works to solve the pro
 
 ## Contact me
 - **Instagram**<br>
-  [muftialroaz](https://instagram.com/muftialraoz/)
+  [muftialroaz](https://instagram.com/muftialroaz/)
 - **Email**<br>
   mufti_azam@apps.ipb.ac.id
