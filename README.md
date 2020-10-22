@@ -28,6 +28,13 @@ I'm Mufti Alfarokhul Azam, love graphic design and how it works to solve the pro
 - Adobe Photoshop
 - Adobe Illustrator
 
+## Other Skills
+- Copywriting
+- Leadership
+- Management
+- organization
+- Multitasking
+
 ## Contact me
 - **Instagram**<br>
   [muftialroaz](https://instagram.com/muftialraoz/)
