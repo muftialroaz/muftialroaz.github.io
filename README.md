@@ -1,3 +1,4 @@
+# muftialroaz.github.io
 # Mufti Alfarokhul Azam
 
 I'm Mufti Alfarokhul Azam, love graphic design and how it works to solve the problem. I have many interest about programming and web development, specially in UI/UX.
