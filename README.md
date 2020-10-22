@@ -11,12 +11,25 @@ I'm Mufti Alfarokhul Azam, love graphic design and how it works to solve the pro
 
 ## Organizational Experience
 - **Head of Media and Branding Division**<br>
-  BEM FMIPA IPB 2019/2020<br>
+  Executive Council of Student IPB University 2019/2020<br>
   
 - **Head of Communication and Information Division**<br>
   KEMALA IPB 2018/2019<br>
 
+## Programming Skills
+- Python
+- PHP
+- Laravel
+- R
 
+## Design and Multimedia Skills
+- Figma
+- Adobe Premier
+- Adobe Photoshop
+- Adobe Illustrator
 
-
-###### muftialroaz.github.io
+## Contact me
+- **Instagram**<br>
+  [muftialroaz](https://instagram.com/muftialraoz/)
+- **Email**<br>
+  mufti_azam@apps.ipb.ac.id
