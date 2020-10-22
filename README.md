@@ -32,7 +32,7 @@ I'm Mufti Alfarokhul Azam, love graphic design and how it works to solve the pro
 - Copywriting
 - Leadership
 - Management
-- organization
+- Organization
 - Multitasking
 
 ## Contact me
