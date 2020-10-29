@@ -1,0 +1,41 @@
+# Mufti Alfarokhul Azam
+
+I'm Mufti Alfarokhul Azam, love graphic design and how it works to solve the problem. I have many interest about programming and web development, specially in UI/UX.
+
+## Education
+- **MAN 2 Bandar Lampung**<br>
+  2014-2017
+- **IPB University**<br>
+  2017-Now
+
+## Organizational Experience
+- **Head of Media and Branding Division**<br>
+  Executive Council of Student IPB University 2019/2020<br>
+  
+- **Head of Communication and Information Division**<br>
+  KEMALA IPB 2018/2019<br>
+
+## Programming Skills
+- Python
+- PHP
+- Laravel
+- R
+
+## Design and Multimedia Skills
+- Figma
+- Adobe Premier
+- Adobe Photoshop
+- Adobe Illustrator
+
+## Other Skills
+- Copywriting
+- Leadership
+- Management
+- Organization
+- Multitasking
+
+## Contact me
+- **Instagram**<br>
+  [muftialroaz](https://instagram.com/muftialroaz/)
+- **Email**<br>
+  mufti_azam@apps.ipb.ac.id
