@@ -96,11 +96,12 @@ header {
 
 header h2 {
     position: absolute;
+    width: 566px;
     height: 59px;
     left: 173px;
     top: 296px;
     
-    font-family: "Montserrat", sans-serif;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: bold;
     font-size: 48px;
@@ -109,21 +110,25 @@ header h2 {
     
     
     color: #FFAF29;
-    
 }
 
 header h1 {
 
     position: absolute;
+    width: 518px;
     height: 78px;
     left: 173px;
     top: 355px;
     
-    font-family: "Montserrat", sans-serif;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: bold;
     font-size: 64px;
     line-height: 78px;
+    /* identical to box height */
+    
+    
+    /* Gray 6 */
     
     color: #F2F2F2;
     
@@ -418,13 +423,20 @@ footer h2 {
 
 footer h3 {
     position: absolute;
+    width: 221px;
+    height: 44px;
     left: 850px;
     top: 1374px;
     
-    font-family: "Montserrat", sans-serif;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    
+    
+    /* Gray 6 */
     
     color: #F2F2F2;
 }
