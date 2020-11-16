@@ -121,7 +121,6 @@ header .iglink {
     display: flex;
     margin-right: 30px;
     align-items: center;
-    /* margin-bottom: 50px; */
 }
 
 .iglink .ig {
@@ -134,6 +133,10 @@ header .iglink {
 a {
     text-decoration: none;
     color: var(--dim-color);
+}
+
+.iglink a img:hover {
+    transform: scale(1.2);
 }
 
 skills {
@@ -181,6 +184,7 @@ footer {
     color: var(--light-color);
     text-align: center;
     background-color: var(--footer-color);
+    width: 100%;
 }
 
 footer h3 {
@@ -196,6 +200,11 @@ footer .socmed {
     text-align: center;
     list-style: none;
 }
+
+.socmed a img:hover {
+    transform: scale(1.2);
+}
+
 
 footer li {
     display: table;
