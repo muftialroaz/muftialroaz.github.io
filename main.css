@@ -135,6 +135,9 @@ a {
     color: var(--dim-color);
 }
 
+.iglink a img {
+    transition: 500ms;
+}
 .iglink a img:hover {
     transform: scale(1.2);
 }
@@ -201,6 +204,9 @@ footer .socmed {
     list-style: none;
 }
 
+.socmed a img {
+    transition: 500ms;
+}
 .socmed a img:hover {
     transform: scale(1.2);
 }
