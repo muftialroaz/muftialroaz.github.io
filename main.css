@@ -74,19 +74,18 @@ section p {
     position: relative;
 }
 
+/* Header */
 header {
     display: flex;
-    /* height: 70vh; */
+    /* height: 100vh; */
     align-items: center;
     justify-content: space-between;
 }
-
 header h2 {
     color: var(--orange-color);
     font-family: "Montserrat", sans-serif;
     font-size: 36px;
 }
-
 header h1 {
     color: var(--light-color);
     font-family: "Montserrat", sans-serif;
@@ -96,12 +95,9 @@ header h1 {
 header {
     margin-top: 150px;
 }
-
 .header-container {
     min-height: calc(100vh - 240px);
 }
-
-
 .hero-content p {
     color: var(--dim-color);
     font-family: "Roboto", sans-serif;
@@ -109,32 +105,27 @@ header {
     margin-top: 25px;
     margin-bottom: 70px;
 }
-
 header .iglink {
     display: flex;
     align-items: center;
     text-decoration: none;
     list-style: none;
 }
-
 .iglink li{
     display: flex;
     margin-right: 30px;
     align-items: center;
 }
-
 .iglink .ig {
     margin-right: 100px;
 }
 .iglink li:nth-last-of-type(2) {
     margin-right: 5px;
 }
-
 a {
     text-decoration: none;
     color: var(--dim-color);
 }
-
 .iglink a img {
     transition: 500ms;
 }
@@ -142,8 +133,20 @@ a {
     transform: scale(1.2);
 }
 
+/* Portofolio */
+.portofolio {
+    color: var(--light-color);
+    margin-bottom: 100px;
+}
+
+.portofolio h1 {
+    margin-bottom: 18px
+}
+
+/* Skills */
 .skills {
     color: var(--light-color);
+    margin-bottom: 50px;
 }
 
 .skills h1 {
