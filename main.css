@@ -143,16 +143,38 @@ a {
     margin-bottom: 18px
 }
 
+.porto-content {
+    display: flex;
+}
+
+.porto-desc {
+    margin-left: 20px;
+    color: var(--dim-color);
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+}
+
+.porto-desc h2 {
+    margin-bottom: 30px;
+}
+
+.porto-desc p {
+    text-align: justify;
+}
+
+.porto-desc #text {
+    margin-top: 65px;
+    font-style: italic;
+}
+
 /* Set Hover Porto */
 .porto-content {
     position: relative;
-    width: 35%;
 }
   
 .porto-img {
     opacity: 1;
     display: block;
-    /* width: 100%; */
     height: auto;
     transition: .5s ease;
     backface-visibility: hidden;
