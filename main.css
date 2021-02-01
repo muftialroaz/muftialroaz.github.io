@@ -55,7 +55,23 @@ section p {
     width: calc(1152px - 200px);
     top: 28px;
 }
+/* Logo */
+.logo a{
+    display: flex;
+    align-items: center;
+}
 
+.logo a li {
+    text-decoration: none;
+    list-style: none;
+    margin-left: 15px;
+    color: var(--orange-color);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+/* menu items */
 .desktop-nav .menu-items {
     display: flex;
     list-style: none;
