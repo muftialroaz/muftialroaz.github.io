@@ -70,6 +70,9 @@ section p {
     font-weight: bold;
 }
 
+.logo .logo-size {
+    width: 42.16px;
+}
 
 /* menu items */
 .desktop-nav .menu-items {
@@ -386,3 +389,6 @@ a {
         transform: translateY(0);
     }
 }
+
+
+/* Mobile View */
