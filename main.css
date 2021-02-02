@@ -397,7 +397,6 @@ a {
     .logo a{
         display: flex;
         align-items: center;
-        margin-left: 0;
     }
     
     .logo a li {
@@ -415,10 +414,17 @@ a {
 
     .desktop-nav {
         width: calc(100% - 40px);
+        padding-left: 5px;
     }
 
     .desktop-nav .menu-items{
-        font-size: 14;
+        font-size: 14px;
+        padding-right: 0px;
+    }
+
+    .desktop-nav .menu-items li {
+        margin: 0 20px;
+        font-size: 14px;
     }
 
 
