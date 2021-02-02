@@ -91,28 +91,25 @@ section p {
 }
 
 /* Header */
-header {
+.hero_container {
     display: flex;
     /* height: 100vh; */
     align-items: center;
     justify-content: space-between;
 }
-header h2 {
+.hero_container h2 {
     color: var(--orange-color);
     font-family: "Montserrat", sans-serif;
     font-size: 36px;
 }
-header h1 {
+.hero_container h1 {
     color: var(--light-color);
     font-family: "Montserrat", sans-serif;
     font-size: 48px;
 
 }
-header {
+.hero_container {
     margin-top: 150px;
-}
-.header-container {
-    min-height: calc(100vh - 240px);
 }
 .hero-content p {
     color: var(--dim-color);
@@ -121,31 +118,31 @@ header {
     margin-top: 25px;
     margin-bottom: 70px;
 }
-header .iglink {
+.social_links {
     display: flex;
     align-items: center;
     text-decoration: none;
     list-style: none;
 }
-.iglink li{
+.social_links li{
     display: flex;
     margin-right: 30px;
     align-items: center;
 }
-.iglink .ig {
+.social_links .ig {
     margin-right: 100px;
 }
-.iglink li:nth-last-of-type(2) {
+.social_links li:nth-last-of-type(2) {
     margin-right: 5px;
 }
 a {
     text-decoration: none;
     color: var(--dim-color);
 }
-.iglink a img {
+.social_links a img {
     transition: 500ms;
 }
-.iglink a img:hover {
+.social_links a img:hover {
     transform: scale(1.2);
 }
 
@@ -196,23 +193,8 @@ a {
     backface-visibility: hidden;
 }
   
-.middle {
-    transition: .5s ease;
-    opacity: 0;
-    position: absolute;
-    top: 80%;
-    left: 45%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    text-align: center;
-}
-  
 .porto-content:hover .porto-img {
     opacity: 0.3;
-}
-  
-.porto-content:hover .middle {
-    opacity: 1;
 }
   
 .text {
@@ -267,21 +249,21 @@ a {
 }
 
 /* Footer */
-footer {
+.footer {
     color: var(--light-color);
     text-align: center;
     background-color: var(--footer-color);
     width: 100%;
 }
 
-footer h3 {
+.footer h3 {
     font-family: "Montserrat", sans-serif;
     font-size: 24px;
     margin-bottom: 18px;
     padding-top: 24px;
 }
 
-footer .socmed {
+.footer .socmed {
     display: flex;
     justify-content: center;
     text-align: center;
@@ -295,7 +277,7 @@ footer .socmed {
     transform: scale(1.2);
 }
 
-footer li {
+.footer li {
     display: table;
     margin: 0 30px;
     margin-bottom: 30px;
@@ -388,7 +370,7 @@ footer li {
 }
 
 /* footer */
-footer {
+.footer {
     animation: fadeUp 2600ms forwards;
     opacity: 0;
     animation-delay: 2700ms;
